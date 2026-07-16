@@ -1,0 +1,10 @@
+{
+  "name": "everything-calculator-web",
+  "version": "1.0.3",
+  "private": true,
+  "description": "A dependency-free responsive clone of The Everything Calculator.",
+  "scripts": {
+    "test": "node tests/smoke.test.js"
+  },
+  "license": "MIT"
+}
